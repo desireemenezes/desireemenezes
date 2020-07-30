@@ -1,1 +1,1 @@
-<img src="myOctocat.png" alt="MyOctacat" width="100%">
+<img src="myOctocat.png" alt="MyOctocat" width="100%">
