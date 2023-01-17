@@ -2,6 +2,6 @@
 
 Me chamo Desirée, sou desenvolvedora FRONT-END.
 
-![octocat (3)](https://user-images.githubusercontent.com/31622166/89435945-f011ab00-d71b-11ea-82ab-4e717aaaf380.jpg)
+![89435945-f011ab00-d71b-11ea-82ab-4e717aaaf380-removebg-preview](https://user-images.githubusercontent.com/31622166/213008108-30e3d64e-69e2-471a-89fb-c571d33c2c95.png)
 
 
